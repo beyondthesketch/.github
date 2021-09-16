@@ -1,12 +1,18 @@
 # 👋🌍
 
-We are a website design and development company specialising in producing high performance, fully responsive websites and front end solutions.
+We passionately create **art** and **software**!
+
+Not only do we craft unorthodox **designs** with carefully considered **user interfaces** for **websites** and **WebApps**, we also **code** them!
+
+We are **specialists** in creating high performance, fully responsive websites, webapps, front end solutions.
 
 ## Artful Code
 
 We love to try out ideas and unorthodox approaches. Some are just experiments to see how much we can do with client side code and some are usable projects we use. We love open source, so we share some of it here! Take a look around our repos.
 
 ## 🔭 Our Main Projects
+
+![ScriptuccinoJS Logo](https://repository-images.githubusercontent.com/152841548/cf513380-2d8f-11ea-89e4-93f6d975ceab)
 
 - [ScriptuccinoJS](https://github.com/beyondthesketch/ScriptuccinoJS) - A fully modular, simple set of JavaScript functions and utilities for easily performing some common tasks for websites (and webapps), such as running functions when items enter the viewport, or lazy loading CSS files, as well as scripting CSS3 based transitions and effects.
 - [Uijettos](https://github.com/beyondthesketch/uijettos) - Stateful & stateless, React UI widget components for websites and web apps, styleable with BEM.
