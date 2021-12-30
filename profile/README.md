@@ -31,7 +31,6 @@ We 🧡 love to try out ideas and unorthodox approaches. Some are just experimen
 
 ## 👕 Some Stuff We Sell
 
-- 📲 [iMessage Stickers](https://www.beyondthesketch.com/imessage-stickers) featuring our original characters
 - 🛍 [Merch](https://shop.spreadshirt.co.uk/beyondthesketch) featuring our art, characters and designs
 
 ## Some Stuff For Free
@@ -47,3 +46,4 @@ We like to share our experiments, ideas and expertise in our [articles](https://
 - Instagram (company): [beyondthesketchltd](https://www.instagram.com/beyondthesketchltd/)
 - Instagram (dev & design): [beyondthesketch](https://www.instagram.com/beyondthesketch/)
 - YouTube [channel](https://www.youtube.com/channel/UCYd_CTychF9kxYToaAWPiPQ)
+- [LinkedIn](https://www.linkedin.com/company/beyond-the-sketch)
